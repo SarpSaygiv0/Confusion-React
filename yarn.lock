@@ -2092,6 +2092,14 @@
     "safe-buffer" "^5.0.1"
     "sha.js" "^2.4.8"
 
+"cross-fetch@^2.1.0":
+  "integrity" "sha512-FTIt2WK44RiafWQ62xIvd+oBoVd392abh1lF872trLlA74JCR1s4oTHlixwoIKy44ehn8WbQ0Ds2P16sw7ZQxg=="
+  "resolved" "https://registry.npmjs.org/cross-fetch/-/cross-fetch-2.1.0.tgz"
+  "version" "2.1.0"
+  dependencies:
+    "node-fetch" "2.1.1"
+    "whatwg-fetch" "2.0.3"
+
 "cross-spawn@^5.0.1", "cross-spawn@^5.1.0", "cross-spawn@5.1.0":
   "integrity" "sha1-6L0O/uWPz/b4+UUQoKVUu/ojVEk="
   "resolved" "https://registry.npmjs.org/cross-spawn/-/cross-spawn-5.1.0.tgz"
@@ -5555,6 +5563,11 @@
   "version" "2.3.2"
   dependencies:
     "lower-case" "^1.1.1"
+
+"node-fetch@2.1.1":
+  "integrity" "sha1-NpynC4L1DIZJYQSmx3bSdPTkotQ="
+  "resolved" "https://registry.npmjs.org/node-fetch/-/node-fetch-2.1.1.tgz"
+  "version" "2.1.1"
 
 "node-forge@^0.10.0":
   "integrity" "sha512-PPmu8eEeG9saEUvI97fm4OYxXVB6bFvyNTyiUOBichBpFG8A1Ljw3bY62+5oOjDEMHRnd0Y7HQ+x7uzxOzC6JA=="
